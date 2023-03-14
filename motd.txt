@@ -1,0 +1,5 @@
+Update: Beta 1.2.00
+
+Properly Working MOTD exists now yay.
+
+Also new stuff look around the map for that stuff!
